@@ -1,7 +1,7 @@
 Summary:	Spanish dictionary for ispell
-Summary(ca):	Diccionari espanyol per a ispell
-Summary(es):	Diccionario espaÒol para ispell
-Summary(pl):	HiszpaÒski s≥ownik dla ispella
+Summary(ca.UTF-8):   Diccionari espanyol per a ispell
+Summary(es.UTF-8):   Diccionario espa√±ol para ispell
+Summary(pl.UTF-8):   Hiszpa≈Ñski s≈Çownik dla ispella
 Name:		ispell-es
 Version:	1.8
 Release:	1
@@ -17,14 +17,14 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Spanish dictionary for ispell.
 
-%description -l ca
+%description -l ca.UTF-8
 Diccionari espanyol per a ispell.
 
-%description -l es
-Diccionario espaÒol para ispell.
+%description -l es.UTF-8
+Diccionario espa√±ol para ispell.
 
-%description -l pl
-HiszpaÒski s≥ownik dla programu ispell.
+%description -l pl.UTF-8
+Hiszpa≈Ñski s≈Çownik dla programu ispell.
 
 %prep
 %setup -q -n espa~nol-%{version}
