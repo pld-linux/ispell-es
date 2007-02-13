@@ -1,7 +1,7 @@
 Summary:	Spanish dictionary for ispell
-Summary(ca.UTF-8):   Diccionari espanyol per a ispell
-Summary(es.UTF-8):   Diccionario español para ispell
-Summary(pl.UTF-8):   Hiszpański słownik dla ispella
+Summary(ca.UTF-8):	Diccionari espanyol per a ispell
+Summary(es.UTF-8):	Diccionario español para ispell
+Summary(pl.UTF-8):	Hiszpański słownik dla ispella
 Name:		ispell-es
 Version:	1.8
 Release:	1
